@@ -1,9 +1,9 @@
 <?php
 class Database {
     private $host = "localhost";
-    private $db_name = "realestate_db";
-    private $username = "root";
-    private $password = "";
+    private $db_name = "your db name";
+    private $username = "your username";
+    private $password = "your password";
     public $conn;
 
     public function getConnection() {
