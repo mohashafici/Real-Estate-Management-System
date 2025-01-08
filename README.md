@@ -314,7 +314,7 @@ This project is licensed under the [MIT License](LICENSE).
 For any questions, issues, or suggestions, please contact:
 
 - **Email**: admin@realestateapp.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **GitHub**: [mohashafici](https://github.com/mohashafici)
 - **Website**: [www.realestateapp.com](http://www.realestateapp.com)
 
 ---
